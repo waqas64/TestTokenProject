@@ -5,7 +5,7 @@
 * npm install -g web3
 
 In project root directory
-* npm intall
+* npm intsall
 * truffle deploy
 *  >compile
 *  >deploy
